@@ -1,1 +1,1 @@
-# observer-pattern
+In this example we have a class "battery", which implements the Observable interface, and two observers(which implements the Observer interface), one observer informs about the remaining time, and the other observer informs about the percentage charge of the battery.
